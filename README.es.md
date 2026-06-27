@@ -178,7 +178,8 @@ Ejecutar el script de entrenamiento:
 ```bash
 python src/train_supervised.py
 ```
-
+> Nota: Los resultados oficiales reportados en este proyecto son los documentados en el notebook.  
+> El script `src/train_supervised.py` se incluye solo como un pipeline liviano para verificar la configuración del proyecto.
 Para explorar el análisis completo, abrir el notebook:
 
 ```bash
