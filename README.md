@@ -1,5 +1,7 @@
 # Wine Quality Prediction - Supervised Machine Learning
 
+[Spanish version](README.es.md)
+
 Portfolio project applying supervised Machine Learning to the **UCI Wine Quality dataset**.
 
 The project focuses on two predictive tasks:
